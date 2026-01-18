@@ -1,3 +1,11 @@
+
+
+
+<p align="center">
+  <img src="001.png" alt=" Exploratory Data Analysis (EDA) " width="900"/>
+</p>
+
+
 # مشروع تحليل بيانات  
 ## E-commerce Purchases – Exploratory Data Analysis (EDA)
 
