@@ -1,8 +1,7 @@
-
-
-
 <p align="center">
-  <img src="001.png" alt=" Exploratory Data Analysis (EDA) " width="900"/>
+  <a href="https://www.kaggle.com/code/hassanjameelahmed/e-commerce-customer-behavior-eda" target="_blank">
+    <img src="001.png" alt="E-Commerce Customer Behavior | EDA" width="900">
+  </a>
 </p>
 
 
